@@ -1,0 +1,1 @@
+MjobId=job_1560150672880_0002,submitTime=1560165824944,launchTime=1560165837992,firstMapTaskLaunchTime=1560165841898,firstReduceTaskLaunchTime=0,finishTime=1560165855808,resourcesPerMap=1024,resourcesPerReduce=0,numMaps=4,numReduces=0,user=hduser,queue=default,status=FAILED,mapSlotSeconds=0,reduceSlotSeconds=0,jobName=categories.jar
